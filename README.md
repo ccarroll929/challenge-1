@@ -6,11 +6,11 @@ Description: In this project, I took the starter-code of a finished webpage and 
 
 Link to deployed application: https://ccarroll929.github.io/challenge-1/
 
-![Screenshot of Deployed Webpage](image-1.png)
+![Screenshot of Deployed Webpage](assets/Images/image-1.png)
 
 Installation: VS Code - https://code.visualstudio.com/download
               Git Bash - https://gitforwindows.org/
-
+ 
 Authors and Acknowledgement: Starter-Code provided by https://github.com/coding-boot-camp/urban-octo-telegram
 
 
